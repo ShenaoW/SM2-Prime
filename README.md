@@ -1,17 +1,20 @@
 # sm2
-A simple implementation of SM2 based on the prime field
+
+A simple implementation of SM2 based on the prime domain.
+
+
 
 **公钥Pb，私钥db，密文C1 || C2 || C3，明文M**
 
 ### 加密流程
 
-![SM2加密流程](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/SM2加密流程.png)
+![SM2加密流程](https://s2.loli.net/2022/01/09/2O9wMmounHCKE4F.png)
 
 
 
 ### 解密流程
 
-![SM2解密流程](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/SM2解密流程.png)
+![SM2解密流程](https://s2.loli.net/2022/01/09/hLPgloDr7vmfZXc.png)
 
 
 
@@ -27,19 +30,19 @@ A simple implementation of SM2 based on the prime field
 
 用户密钥对需要满足：
 
-![image-20211201162825490](C:\Users\Rainbow\AppData\Roaming\Typora\typora-user-images\image-20211201162825490.png)
+![image-20211201162825490](https://s2.loli.net/2022/01/09/flTI45ZDWQLFOAY.png)
 
 基点的选取：
 
-![image-20211201162916628](C:\Users\Rainbow\AppData\Roaming\Typora\typora-user-images\image-20211201162916628.png)
+![image-20211201162916628](https://s2.loli.net/2022/01/09/yhG7gLdos3Xf4uR.png)
 
 椭圆曲线推荐参数：
 
-![image-20211201162953261](C:\Users\Rainbow\AppData\Roaming\Typora\typora-user-images\image-20211201162953261.png)
+![image-20211201162953261](https://s2.loli.net/2022/01/09/si4YVqjwnM8cOH7.png)
 
-![素域加法](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/素域加法.png)
+![素域加法](https://s2.loli.net/2022/01/09/F2Nd49g6mrpWPkL.png)
 
-![素域倍点](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/素域倍点.png)
+![素域倍点](https://s2.loli.net/2022/01/09/ZufCQS5dTVwP7rj.png)
 
 
 
