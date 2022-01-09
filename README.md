@@ -1,14 +1,17 @@
+# sm2
+A simple implementation of SM2 based on the prime field
+
 **公钥Pb，私钥db，密文C1 || C2 || C3，明文M**
 
 ### 加密流程
 
-![SM2加密流程](C:\Users\Rainbow\Desktop\SM2\readme\SM2加密流程.png)
+![SM2加密流程](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/SM2加密流程.png)
 
 
 
 ### 解密流程
 
-![SM2解密流程](C:\Users\Rainbow\Desktop\SM2\readme\SM2解密流程.png)
+![SM2解密流程](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/SM2解密流程.png)
 
 
 
@@ -34,7 +37,9 @@
 
 ![image-20211201162953261](C:\Users\Rainbow\AppData\Roaming\Typora\typora-user-images\image-20211201162953261.png)
 
-![素域加法](C:\Users\Rainbow\Desktop\SM2\readme\素域加法.png)
+![素域加法](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/素域加法.png)
 
-![素域倍点](C:\Users\Rainbow\Desktop\SM2\readme\素域倍点.png)
+![素域倍点](../../../../../../[粉粉小红花]/[Study]/[作业]/信息安全数学基础/SM2/readme/素域倍点.png)
+
+
 
