@@ -1,5 +1,6 @@
 # sm2
 
+基于素数域的SM2的简单实现。
 A simple implementation of SM2 based on the prime domain.
 
 
