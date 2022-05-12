@@ -1,4 +1,4 @@
-# SM-Prime
+# SM2-Prime
 
 基于素数域的SM2的简单实现。
 
